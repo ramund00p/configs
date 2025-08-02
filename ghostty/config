@@ -1,0 +1,8 @@
+theme = "nightfox"
+font-size = 50 
+background-opacity = 0.85
+background-blur = true
+fullscreen = true
+macos-non-native-fullscreen = true
+macos-titlebar-style = transparent 
+macos-icon-frame = aluminum 
